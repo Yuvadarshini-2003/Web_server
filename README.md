@@ -50,6 +50,7 @@ httpd.serve_forever()
 
 ## OUTPUT:
 
-
+The screenshot of the above program is tagged...
 
 ## RESULT:
+The web server is created successfully.
