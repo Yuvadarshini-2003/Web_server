@@ -46,11 +46,10 @@ server_address = ('',8080)
 httpd = HTTPServer(server_address,myhandler)
 print("my webserver is running...")
 httpd.serve_forever()
-~~~
 
+~~~
 ## OUTPUT:
 
-The screenshot of the above program is tagged...
 
 ## RESULT:
 The web server is created successfully.
