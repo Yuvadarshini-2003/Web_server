@@ -28,9 +28,9 @@ content = """
 <title>My webserver</title>
 </head>
 <body>
-<h1>Department of Artificial Intelligence and Machine Learning</h1>
-<h3>Name: Ritika S</h3>
-<h3>Reference no.: 21001175/h3>
+<h1>Department of Artificial Intelligence and Data Science</h1>
+<h2>Ref no.: 21001803</h2>
+<h3>Name: Yuvadarshini S</h3>
 </body>
 </html>
 """
@@ -48,7 +48,7 @@ httpd.serve_forever()
 ~~~
 
 ## OUTPUT:
-![GitHub Logo](webb.png)
+![GitHub Logo](google.png)
 
 ## RESULT:
 The web server is created successfully.
